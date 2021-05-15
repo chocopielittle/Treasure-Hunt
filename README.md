@@ -1,8 +1,8 @@
 Treasure Hunt - a secondhand goods website.
 
-Please install the following package before you start coding:
-$ npm install axios  ||  $ yarn add axios
-$ npm install antd || $ yarn add antd
+Please install the following package before you start coding:\
+Axios: $ npm install axios  ||  $ yarn add axios
+Ant Design : $ npm install antd || $ yarn add antd
 
 
 Please develop the website follow the style guide and prototype provided.
