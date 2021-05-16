@@ -5,7 +5,8 @@ Axios: $ npm install axios  ||  $ yarn add axios\
 Ant Design : $ npm install antd || $ yarn add antd
 
 
-Please develop the website follow the style guide and prototype provided.\
+Please develop the website follow the style guide and prototype provided.
+
 ---------------------------------------------------------------
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
